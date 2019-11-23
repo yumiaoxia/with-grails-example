@@ -1,0 +1,3 @@
+rootProject.name = 'with-grails-example'
+include 'my-first-grails-app'
+
